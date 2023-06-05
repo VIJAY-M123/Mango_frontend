@@ -1,0 +1,7 @@
+.nav-tabs .nav-link{
+    font-size: 10px !important;
+}
+.nav-tabs .nav-link.active{
+    background-color: #344d7f!important;
+    color: white !important;
+}

@@ -1,0 +1,19 @@
+.btn1{
+    height: 30px !important;
+    width: 100px !important;
+    border-radius: 6px !important;
+    border: none;
+    background: #1d2766;
+    box-shadow: inset 5px 5px 10px #101537,
+            inset -5px -5px 10px #2a3995;
+    color: white;
+}
+.btn1:active{
+    background: #1d2766;
+    box-shadow: inset 5px 5px 10px #2a3995,
+            inset -5px -5px 10px #101537;
+
+}
+.btn{
+    width: 140px !important;
+}

@@ -1,0 +1,22 @@
+.Modal{
+    height: 200px !important ;
+    width: 300px !important ;
+    display: flex !important;
+    justify-content: center ;
+    align-items: center;
+    background-color: #1d2766 !important;
+    padding: 20px ;
+
+}
+.btnYes{
+    height: 35px !important;
+    width: 70px !important;
+    border: none;
+
+}
+.btnNo{
+    height: 35px !important;
+    width: 70px !important;
+    border: none;
+    
+}
