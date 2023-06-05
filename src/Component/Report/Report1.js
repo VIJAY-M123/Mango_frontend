@@ -24,14 +24,14 @@ const table = [{
     direction: "Radha",
 
 },
-{
-    name: "ActivityCodes",
-    date: <BsHandThumbsUpFill color="#344d7f" />,
-    from: <BsHandThumbsUpFill color="#344d7f" />,
-    to: "06-00-AM",
-    status: "11",
-    direction: "Radha",
-},
+// {
+//     name: "ActivityCodes",
+//     date: <BsHandThumbsUpFill color="#344d7f" />,
+//     from: <BsHandThumbsUpFill color="#344d7f" />,
+//     to: "06-00-AM",
+//     status: "11",
+//     direction: "Radha",
+// },
 {
     name: "Billing worksheet by Billing Group",
     date: <BsHandThumbsUpFill color="#344d7f" />,
@@ -81,6 +81,15 @@ const table = [{
     status: "11",
     direction: "Radha",
 },
+{
+    name: "Open Time Aging Summary by User",
+    date: <BsHandThumbsUpFill color="#344d7f" />,
+    from: <BsHandThumbsUpFill color="#344d7f" />,
+    to: "06-00-AM",
+    status: "11",
+    direction: "Radha",
+},
+
 
 
 ]
