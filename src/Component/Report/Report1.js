@@ -33,21 +33,14 @@ const table = [{
     direction: "Radha",
 },
 {
-    name: "Billing worksheet by Billibg Group",
+    name: "Billing worksheet by Billing Group",
     date: <BsHandThumbsUpFill color="#344d7f" />,
     from: <BsHandThumbsUpFill color="#344d7f" />,
     to: "06-00-AM",
     status: "11",
     direction: "Radha",
 },
-{
-    name: "Billingworksheet_Improvised",
-    date: <BsHandThumbsUpFill color="#344d7f" />,
-    from: <BsHandThumbsUpFill color="#344d7f" />,
-    to: "06-00-AM",
-    status: "11",
-    direction: "Radha",
-},
+
 {
     name: "Daily Slip Amount Chargeable and Non-Chargeable",
     date: <BsHandThumbsUpFill color="#344d7f" />,
